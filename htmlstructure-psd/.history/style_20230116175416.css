@@ -1,0 +1,13 @@
+body {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.toprow { 
+    height: 80px;
+    border-style: solid;
+    border-color: black;
+
+   
+}

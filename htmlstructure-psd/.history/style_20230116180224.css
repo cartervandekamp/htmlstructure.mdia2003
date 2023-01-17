@@ -1,0 +1,28 @@
+body {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.toprow { 
+    height: 120px;
+    border-style: solid;
+    border-color: black;   
+}
+
+.topleft {
+    height: 100px;
+    width: 250px;
+    margin: 7px;
+    border-style: solid;
+    border-color: black;
+}
+
+.topmiddle {
+    height: 90px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+    align-items: center;
+    align-content: center;
+}

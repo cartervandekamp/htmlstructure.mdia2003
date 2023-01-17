@@ -1,0 +1,18 @@
+body {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.toprow { 
+    height: 100px;
+    border-style: solid;
+    border-color: black;   
+}
+
+.topleft {
+    height: 60px;
+    width: 200px;
+    border-style: solid;
+    border-color: black;
+}
